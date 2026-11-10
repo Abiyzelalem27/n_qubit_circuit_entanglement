@@ -18,7 +18,7 @@ def expressibility(
     data=None,
     epstol=1e-18,
 ):
-    """Computes expressibility for a circuit.
+    """ Computes expressibility for a circuit.
 
     Args:
         circuit_simulator: A function that takes n_params and returns a qiskit

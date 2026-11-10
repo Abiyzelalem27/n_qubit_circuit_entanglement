@@ -2,12 +2,9 @@ from triple_e import entanglement_capability
 
 from qiskit import QuantumCircuit
 from qiskit.quantum_info import Statevector
-
 import pytest
 
 # Check against 1-qubit examples from paper
-
-
 def test_entangling_2_separable():
 
     def separable_circuit(params):

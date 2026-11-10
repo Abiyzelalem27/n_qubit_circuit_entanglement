@@ -2,7 +2,7 @@ import numpy as np
 
 
 def empirical_fisher(p, dp):
-    """Calculates the empirical fisher informatiom matrix of some distribution.
+    """Calculates the empirical Fisher information matrix of some distribution.
 
     For some distribution p, some M different d-dimensional vector of distribution
     parameters theta, this function calculates the empirical fisher information

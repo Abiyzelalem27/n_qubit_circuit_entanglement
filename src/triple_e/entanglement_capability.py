@@ -8,7 +8,7 @@ from qiskit.quantum_info import DensityMatrix, Statevector
 def entanglement_capability(
     circuit_simulator, n_params, n_shots=1000, data=None, seed=None
 ):
-    """Computes entanglement capability for a circuit.
+    """ Computes entanglement capability for a circuit.
 
     Args:
         circuit_simulator: A function that takes n_params and returns a qiskit

@@ -2,12 +2,9 @@ from triple_e import expressibility
 
 from qiskit import QuantumCircuit
 from qiskit.quantum_info import Statevector
-
 import pytest
 
 # Check against 1-qubit examples from paper
-
-
 def test_expressibility_single_qubit_idle():
 
     def idle_circuit(_):

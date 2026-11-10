@@ -1,6 +1,8 @@
 # triple_e
 
-[![DOI](https://zenodo.org/badge/455096142.svg)](https://zenodo.org/badge/latestdoi/455096142)
+Research adaptation by Abiyzelalem27, based on the original triple_e project.
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-black?style=flat-square&logo=black)](https://github.com/psf/black)
 [![Email: vasilis](https://img.shields.io/badge/email-vasileios.belis%40cern.ch-blue?style=flat-square&logo=minutemailer)](mailto:vbelis@phys.ethz.ch)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)

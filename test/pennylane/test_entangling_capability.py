@@ -1,7 +1,6 @@
 from triple_e import entanglement_capability
 
 import pennylane as qml
-
 import pytest
 
 

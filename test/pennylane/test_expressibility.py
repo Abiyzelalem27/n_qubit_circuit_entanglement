@@ -1,7 +1,6 @@
 from triple_e import expressibility
 
 import pennylane as qml
-
 import pytest
 
 
